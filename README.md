@@ -10,4 +10,6 @@ VideoPlayer.py: This script is based on the VLC Python bindings example and modi
 
 vlc.py: This is the original VLC Python binding. There might be a newer version at from https://wiki.videolan.org/python_bindings.
 
-[1] Demirbilek, Edip, and Jean-Charles Grégoire. “The INRS Audiovisual Quality Dataset."  2016 ACM Multimedia Conference (accepted).
+[1] Demirbilek, Edip, and Jean-Charles Grégoire. “The INRS Audiovisual Quality Dataset."  2016 ACM Multimedia Conference.
+
+[2] Edip Demirbilek and Jean-Charles Grégoire. Multimedia communication quality assessment testbeds. arXiv preprint arXiv:1609.06612, (2016).
